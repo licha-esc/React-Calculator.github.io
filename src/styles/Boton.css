@@ -1,0 +1,30 @@
+.boton-num {
+    height: 80px;
+    display: flex;
+    flex: 1 1;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 38px;
+    background-color: #000;
+    color: white;
+    border-radius: 40px;
+    border: 2px solid white;
+    margin: 4px;
+    cursor: pointer;
+    user-select: none;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.boton-num:hover {
+    background-color: #5a01a7;
+}
+
+.boton-operador {
+    background-color: #5c5c5c;
+}
+
+.boton-operador:hover {
+    background-color: #ff6600;
+}

@@ -1,0 +1,22 @@
+.boton-clear {
+    height: 75px;
+    font-size: 1.9em;
+    display: flex;
+    flex: 1 1;
+    background-color: #ac0246;
+    margin-top: 8px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border: 2px solid white;
+    cursor: pointer;
+    border-radius: 40px;
+    margin-left: 5px;
+    margin-right: 5px;
+    user-select: none;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.boton-clear:hover {
+    background-color: #ebb000;
+}

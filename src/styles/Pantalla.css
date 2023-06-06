@@ -1,0 +1,15 @@
+.input {
+    height: 100px;
+    border-radius: 50px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    font-size: 55px;
+    background-color:  #0a231d;
+    color: #00ff40;
+    padding: 11px 30px 11px 11px;
+    margin: 1px solid #888;
+    box-shadow: -1px 4px 1px 1px whitesmoke;
+    font-family: "Calculator";
+}
